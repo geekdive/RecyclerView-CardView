@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/e2c0c42a9731c620ad703c08168aab9b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/7847bd532295186c8444d5ca1fa0bcf7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.1.1.aar/e1bf03190edcaa298740bf23e4ac3444/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/fabfe4760daa93062cd90c3da2813977/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:1-20:12
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/e2c0c42a9731c620ad703c08168aab9b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/e2c0c42a9731c620ad703c08168aab9b/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.1.1.aar/e1bf03190edcaa298740bf23e4ac3444/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.1.1.aar/e1bf03190edcaa298740bf23e4ac3444/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/fabfe4760daa93062cd90c3da2813977/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/fabfe4760daa93062cd90c3da2813977/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.learn2crack.recyclerview.MainActivity
+ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/e2c0c42a9731c620ad703c08168aab9b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/e2c0c42a9731c620ad703c08168aab9b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/7847bd532295186c8444d5ca1fa0bcf7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.1.1.aar/7847bd532295186c8444d5ca1fa0bcf7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.1.1.aar/e1bf03190edcaa298740bf23e4ac3444/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/cardview-v7-23.1.1.aar/e1bf03190edcaa298740bf23e4ac3444/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/fabfe4760daa93062cd90c3da2813977/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/command/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/fabfe4760daa93062cd90c3da2813977/AndroidManifest.xml:20:5-43
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		ADDED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml
+		INJECTED from /home/command/Downloads/recycler-view-master/RecyclerView/app/src/main/AndroidManifest.xml

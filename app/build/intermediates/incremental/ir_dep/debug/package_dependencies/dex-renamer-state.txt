@@ -1,0 +1,4 @@
+#Thu Apr 12 19:58:42 WIB 2018
+base.0=/home/command/Downloads/recycler-view-master/RecyclerView/app/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex
